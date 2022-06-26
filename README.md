@@ -1,5 +1,5 @@
 # password-cracker
-Password cracker written in Python
+Password cracker written in Python with MD5 hash.
 
 ## Using a password cracker: How to get started 😎
 
